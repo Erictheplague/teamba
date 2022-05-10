@@ -1,2 +1,5 @@
-# teamba
-a command line based video game
+Teamba is an command line based game made using sfml. The goal is to amass points by jumping over trees running away from the carniovres, then logrolling in bonus rounds
+Two players can compete simultaneously in the same play area.
+The player assumes the role of a jumper in the game and must chop down a given number of trees that sequentially pop up from the ground in a limited amount of time to complete each level . As the game progresses, the quota gradually increases and the time decreases. While playing, the player must avoid beehives that are thrown by bears or lose a life. The player can earn bonus points by hitting a carniovre plant with the axe, or by catching branches that occasionally fly out of felled trees.[2]
+Every couple of levels, the player is given the opportunity to amass bonus points. These stages begin with the player standing on a floating log. As the log begins to rotate, players must make use of their reflexes to stay on top of the log. The first two times this is played, the log is relatively large; on future attempts, the size of the log shrinks considerably. This minigame ends if the player falls off the log or balances atop it for a certain amount of time, earning a bonus in the latter case.[2]
+Either player can earn bonus points by pushing a tree onto the other; in addition, a bonus is awarded to the player who cuts down more trees in each level. 
